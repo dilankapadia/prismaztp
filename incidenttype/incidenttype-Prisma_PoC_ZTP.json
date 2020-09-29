@@ -1,0 +1,31 @@
+{
+	"autorun": true,
+	"closureScript": "",
+	"color": "#C2195B",
+	"days": 0,
+	"daysR": 0,
+	"default": true,
+	"disabled": false,
+	"fromServerVersion": "",
+	"hours": 0,
+	"hoursR": 0,
+	"id": "Prisma PoC ZTP",
+	"itemVersion": "",
+	"layout": "5e6b55cf-53de-4b2e-850d-893927406ecf",
+	"locked": false,
+	"name": "Prisma PoC ZTP",
+	"packID": "ace7027f-d351-4191-834a-7c56edecf0a9",
+	"playbookId": "f72c59f6-f30b-4312-88ae-f699f2656fdb",
+	"preProcessingScript": "",
+	"propagationLabels": [
+		"all"
+	],
+	"readonly": false,
+	"reputationCalc": 0,
+	"sortValues": null,
+	"system": false,
+	"toServerVersion": "",
+	"version": -1,
+	"weeks": 0,
+	"weeksR": 0
+}
